@@ -8,6 +8,7 @@ changeColor.addEventListener("click", async () => {
   });
 });
 
+
 // The body of this function will be executed as a content script inside the
 // current page
 function StartDuolingo() {
