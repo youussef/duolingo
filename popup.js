@@ -15,7 +15,7 @@ function StartDuolingo() {
   // if (url.indexOf("duolingo.com") > -1) {
   //     // GetText();
   //     console.log("StartDuolingo");
-
+  console.log("StartDuolingo");
   // }
   ;
 }
